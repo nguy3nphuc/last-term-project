@@ -16,7 +16,7 @@ Dự án này nhằm mục đích xây dựng một mô hình Machine Learning �
 | Thông tin | Chi tiết |
 | :--- | :--- |
 | **Nguồn gốc** | [Kaggle - Airline Passenger Satisfaction] |
-| **Kích thước** | 26000 hàng và 23 cột. |
+| **Kích thước** | `26000` hàng và `23` cột. |
 | **Biến mục tiêu** | `satisfaction` (Hài lòng/Không hài lòng). |
 | **Các đặc trưng chính** | `Type of Travel`, `Class`, `Inflight wifi service`, `Cleanliness`, `On-board service`, `Gender`, `Customer Type`, v.v. |
 
