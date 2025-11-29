@@ -1,7 +1,7 @@
 # ✈️ Phân Loại Mức Độ Hài Lòng Của Khách Hàng Hàng Không (Airline Customer Satisfaction Classification)
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-[![Libraries](https://img.shields.io/badge/Libraries-Pandas%2C%20Sklearn%2C%20XGBoost-orange.svg)]()
+[![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/)
+[![Libraries](https://img.shields.io/badge/Libraries-Pandas%2C%20Sklearn%2C%20Seaborn%2C%20Matplotlib-orange.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 🌟 1. Tổng Quan Dự Án
@@ -16,7 +16,7 @@ Dự án này nhằm mục đích xây dựng một mô hình Machine Learning �
 | Thông tin | Chi tiết |
 | :--- | :--- |
 | **Nguồn gốc** | [Kaggle - Airline Passenger Satisfaction] |
-| **Kích thước** | [Số lượng hàng] hàng và [Số lượng cột] cột. |
+| **Kích thước** | 26000 hàng và 23 cột. |
 | **Biến mục tiêu** | `satisfaction` (Hài lòng/Không hài lòng). |
 | **Các đặc trưng chính** | `Type of Travel`, `Class`, `Inflight wifi service`, `Cleanliness`, `On-board service`, `Gender`, `Customer Type`, v.v. |
 
