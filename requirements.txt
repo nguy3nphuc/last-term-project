@@ -1,5 +1,22 @@
+
+# Core
 numpy
 pandas
-scikit-learn
+
+# Machine learning
+scikit-learn==1.7.2
+joblib
+scipy
+
+# Visualization
 matplotlib
 seaborn
+
+# Web / App
+streamlit
+
+# Notebook (optional)
+jupyter
+
+# File handling
+Pathlib
